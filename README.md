@@ -2,6 +2,8 @@
 
 ## Review
 
+We used the [Heart Disease dataset ](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) to build a classifier for whether the patient has a Heart Disease or not.
+
 ## :octocat:	Team Memebers
 
 - [Abdullah Huwaishel](https://github.com/hush966)
